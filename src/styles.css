@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap");
+
+body {
+  font-family: "Rammetto One", cursive;
+}
+
+button {
+  font-family: "Rammetto One", cursive;
+}

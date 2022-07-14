@@ -1,0 +1,14 @@
+section {
+  text-align: center;
+}
+h1 {
+  color: green;
+}
+
+.grid {
+  display: grid;
+  margin: 1rem 0;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.4rem;
+  grid-template-rows: auto;
+}

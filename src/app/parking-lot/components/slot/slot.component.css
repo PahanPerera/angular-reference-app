@@ -1,0 +1,27 @@
+.slot {
+  margin: 0.6rem 0;
+  padding: 1rem;
+  font-size: 10px;
+  color: white;
+  border-radius: 6px;
+}
+
+.empty {
+  background: green;
+}
+
+.reserved {
+  background: orange;
+}
+
+.occupied {
+  background: gray;
+}
+
+.button {
+  background: black;
+  border-radius: 6px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
